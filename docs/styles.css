@@ -33,7 +33,7 @@ main {
     color: #fff;
 }
 
-.Twitter_btn {
+.facebook_btn {
     display: inline-flex;
     flex-direction: row;
     background-color: transparent;
@@ -43,27 +43,9 @@ main {
     color: #000;
 }
 
-.Linkedin_btn {
+.tiktok_btn {
   display: inline-flex;
   flex-direction: row;
-  background-color: transparent;
-  padding: 10px;
-  margin: 0 auto;
-  border-radius: 6px;
-  color: #000;
-}
-
-.Instagram_btn {
-  display: inline-flex;
-  background-color: transparent;
-  padding: 10px;
-  margin: 0 auto;
-  border-radius: 6px;
-  color: #000;
-}
-
-.GitHub_btn {
-  display: inline-flex;
   background-color: transparent;
   padding: 10px;
   margin: 0 auto;
@@ -80,7 +62,7 @@ main {
   color: #000;
 }
 
-.Twitter_btn:hover {
+.facebook_btn:hover {
   background: transparent;
   border: 1px solid #fff;
   color: #fff;
@@ -89,31 +71,13 @@ main {
   transform-style:preserve-3d;
 }
 
-.Linkedin_btn:hover {
+.tiktok_btn:hover {
     background: transparent;
     border: 1px solid #fff;
     color: #fff;
     transition: 1s;
     transform: rotateY(360deg);
     transform-style:preserve-3d;
-}
-
-.Instagram_btn:hover {
-  background: transparent;
-  border: 1px solid #fff;
-  color: #fff;
-  transition: 1s;
-  transform: rotateY(360deg);
-  transform-style:preserve-3d;
-} 
-
-.GitHub_btn:hover {
-  background: transparent;
-  border: 1px solid #fff;
-  color: #fff;
-  transition: 1s;
-  transform: rotateY(360deg);
-  transform-style:preserve-3d;
 }
 
 .Telegram_btn:hover {
