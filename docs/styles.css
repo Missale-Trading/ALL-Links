@@ -34,7 +34,7 @@ main {
 }
 
 .facebook_btn {
-    display: inline-flex;
+    display: coloumn;
     flex-direction: row;
     background-color: transparent;
     padding: 10px;
@@ -44,7 +44,7 @@ main {
 }
 
 .tiktok_btn {
-  display: inline-flex;
+  display: grid;
   flex-direction: row;
   background-color: transparent;
   padding: 10px;
@@ -54,7 +54,7 @@ main {
 }
 
 .Telegram_btn {
-  display:inline-flex;
+  display:coloumn;
   background-color: transparent;
   padding: 10px;
   margin: 0 auto;
